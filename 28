@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Prueba de formulario</title>
+  <meta charset="UTF-8">
+  <style>
+      
+      .p1 {
+          color: red;
+      }
+
+      .p2 {
+          color: blue;
+      }
+
+      .div {
+          border: 1px solid black;
+          padding: 30px;
+          margin: 50px;
+          background-color: red;
+          margin: auto;
+      }
+
+      .div2 {
+          border: 1px solid red;
+          padding: 100px;
+          margin: 5px;
+          background-color: yellow;
+      }
+
+      .div3 {
+          border: 1px solid red;
+          padding: 30px;
+          margin: 50px;
+          background-color: red;
+          margin: auto;      }
+
+
+    
+    </style>
+</head>
+<body>
+
+<div class="div">
+
+</div>
+<div class="div2">
+    <p> <CENTER> <B>
+        VIVA ESPAÑA
+                </B>
+        </CENTER>
+    </p>
+
+</div>
+<div class="div3">
+</div>
+
+</body>
+</html>
