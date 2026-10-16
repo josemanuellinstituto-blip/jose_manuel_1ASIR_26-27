@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Prueba de formulario</title>
+  <meta charset="UTF-8">
+  <style>
+      
+      .p1 {
+          color: red;
+      }
+
+      .p2 {
+          color: blue;
+      }
+
+      .div {
+          border: 1px solid black;
+          padding: 30px;
+          margin: 50px;
+          background-color: red;
+          margin: auto;
+          color: blue;
+          
+
+
+      }
+
+      .div2 {
+
+          padding: 150px;
+          margin: 10px;
+          background-color: gray;
+
+      }
+
+      .div3 {
+          border: 1px solid green;
+          padding: 30px;
+          margin: 10px;
+          background-color: green;
+          margin: auto;   
+        width: 20px;  
+    position: absolute;
+    left: 50%;
+  
+    transform: translate(-60%, -150%);
+           height: 30px;            }
+
+
+                 .div4 {
+          border: 1px solid green;
+          padding: 30px;
+          margin: 10px;
+          background-color: blue;
+          margin: auto;   
+        width: 20px;  
+    position: absolute;
+    right: 70%;
+  
+    transform: translate(-40%, -200%);
+           height: 30px;            }
+
+
+
+
+                 .div5 {
+          border: 1px solid green;
+          padding: 30px;
+          margin: 10px;
+          background-color: blue;
+          margin: auto;   
+        width: 20px;  
+    position: absolute;
+    left: 80%;
+  
+    transform: translate(-40%, -200%);
+           height: 30px;            }
+
+
+    
+    </style>
+</head>
+<body>
+
+<div class="div">
+<P> <CENTER>
+    
+</CENTER>
+</P>
+</div>
+<div class="div2">
+    <p> <CENTER> <B>
+        
+                </B>
+            </CENTER>
+
+    </p>
+
+</div>
+<div class="div3">
+    <p> <CENTER> <B>
+        
+                </B>
+            </CENTER>
+
+    </p>
+</div>
+
+<div class="div4">
+    <p> <CENTER> <B>
+        
+                </B>
+            </CENTER>
+
+    </p>
+</div>
+
+<div class="div5">
+    <p> <CENTER> <B>
+        
+                </B>
+            </CENTER>
+
+    </p>
+</div>
+
+
+</body>
+</html>
